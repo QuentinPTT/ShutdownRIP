@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://image.noelshack.com/fichiers/2019/19/2/1557255929-1.png">
+  <img src="http://www.newdesignfile.com/postpic/2013/01/windows-8-shut-down-icon_303366.png">
 </p>
-<h3 align="center">SECONDX</h3>
+<h3 align="center">ShutdownRIP</h3>
 
 
 
