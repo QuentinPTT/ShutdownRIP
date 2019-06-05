@@ -4,7 +4,7 @@
 <h3 align="center">ShutdownRIP</h3>
 
 
-## Installation
+## Utilisation
 
 Ce programme vous permet de :
   - Programmer un arrêt
