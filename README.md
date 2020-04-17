@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 90px;" align="center" src="shutdown.png">
+  <img width="90px" align="center" src="shutdown.png">
 </p>
 <h3 align="center">ShutdownRIP</h3>
 
